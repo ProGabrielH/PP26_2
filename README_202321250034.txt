@@ -1,0 +1,37 @@
+Detalhes da calculadora básica orientada a objetos
+Aluno: Gabriel Henrique de Araújo Albuquerque
+Matricula: 202321250034
+
+INFORMAÇÕES DO AMBIENTE E DA BIBLIOTECA
+
+01 - Versão do compilador Java
+Javac 21.0.12
+
+02 - IDE e respectiva versão
+Visual Studio Code - 1.133.0
+
+03 - Sistema operacional e sua respectiva versão
+Zorin OS 18.1
+
+04 - Tipo da Biblioteca criada para Caculadora_202321250034
+.jar
+
+DESCRIÇÃO DOS MÉTODOS DA CLASSE Calculadora_202321250034
+
+1. public double soma(double num1, double num2)
+   - Descrição: Recebe dois números de ponto flutuante (double) como parâmetros
+     e retorna a soma do primeiro número com o segundo.
+
+2. public double sub(double num1, double num2)
+   - Descrição: Recebe dois números de ponto flutuante (double) como parâmetros
+     e retorna a subtração do primeiro pelo segundo.
+
+3. public double mult(double num1, double num2)
+   - Descrição: Recebe dois números de ponto flutuante (double) como parâmetros
+     e retorna o produto da multiplicação entre eles.
+
+4. public double div(double num1, double num2)
+   - Descrição: Recebe dois números de ponto flutuante (double) como parâmetros
+     e retorna o resultado da divisão do primeiro pelo segundo. Caso o divisor
+     (num2) seja igual a zero, exibe uma mensagem de aviso no terminal indicando
+     "Aviso: Divisão por zero" e retorna 0.
