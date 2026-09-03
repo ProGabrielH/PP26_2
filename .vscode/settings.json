@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "1_Calculadora_Basica/Calculadora_202321250008.jar"
+    ]
+}
