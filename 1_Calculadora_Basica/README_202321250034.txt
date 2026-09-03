@@ -5,7 +5,7 @@ Matricula: 202321250034
 INFORMAÇÕES DO AMBIENTE E DA BIBLIOTECA
 
 01 - Versão do compilador Java
-Javac 21.0.12
+Javac 25.0.4
 
 02 - IDE e respectiva versão
 Visual Studio Code - 1.133.0
